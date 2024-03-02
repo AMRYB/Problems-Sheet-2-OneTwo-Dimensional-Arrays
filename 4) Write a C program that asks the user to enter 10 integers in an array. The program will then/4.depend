@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1709280980 source:f:\problems sheets\problems sheet # 2 onetwo dimensional arrays\4) write a c program that asks the user to enter 10 integers in an array. the program will then\main.c
+	<stdio.h>
+
